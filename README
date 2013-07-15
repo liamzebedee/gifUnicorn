@@ -1,0 +1,11 @@
+=GifUnicorn= - A tool for compiling multiple images into a GIF
+ By Liam Edwards-Playne (liamzebedee)
+ - Licensed under GPLv3
+
+Supports images:
+ - PNG
+ - JPG
+ - TIFF
+Options
+ - Loop (continue looping animation)
+ - Interval between images (ms)
